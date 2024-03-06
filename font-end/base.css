@@ -1,0 +1,156 @@
+body {
+    background-color: #F3F3F3;
+    ;
+}
+ul,ol{
+    list-style: none;
+}
+header {
+    height: 114px;
+    display: flex;
+    justify-self: start;
+}
+.head_logo img{
+    padding: 32px 0px 0px 29px ;
+}
+.menu{
+    width: 50px;
+    margin-top: -25px;
+}
+.menu a {
+    display: flex;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    padding: 25px 0px 25px 0px;
+}
+.menu_list{
+    display: flex;
+    flex-direction: column;
+}
+/* .menu a:hover{
+    background-color: #0E3A5D;
+    ;
+} */
+.content{
+    width: 300px;
+}
+.content_menu{
+    position: absolute;
+    height: 55px;
+    width: 118px;
+    left: 661px;
+    top: 140px;
+    font-family: 'SVN-Helvetica Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 55px;
+    text-align: center;
+    color: #000000;
+}
+.content_drink img{
+    max-width: 200px;
+    max-height: 200px;
+    margin-top: -125px; 
+}
+.content_item1{
+    margin-left: 285px;
+}
+.item1{
+    position: absolute;
+    width: 191px;
+    height: 68px;
+    margin-left:290px;
+    font-family: 'SVN-Helvetica Neue';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+}
+.content_item2{
+    margin-left: 620.1px;
+    margin-top: -83px;
+}
+.item2{
+    position: absolute;
+    width: 191px;
+    height: 68px;
+    left: 630px;
+    top: 500px;
+    font-family: 'SVN-Helvetica Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+}
+.content_item3{
+    margin-left: 955.2px;
+    margin-top: -83px;
+}
+.item3{
+    position: absolute;
+    width: 191px;
+    height: 68px;
+    left: 967px;
+    top: 498px;
+    font-family: 'SVN-Helvetica Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+}
+.content_item4{
+    margin-left: 285px;
+    margin-top: 250px;
+}
+.item4{
+    position: absolute;
+    width: 191px;
+    height: 68px;
+    left: 295px;
+    top: 817px;
+    font-family: 'SVN-Helvetica Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+}
+.content_item5{
+    margin-left: 620.1px;
+    margin-top: -75px
+}
+.item5{
+    position: absolute;
+    width: 191px;
+    height: 68px;
+    left: 628px;
+    top: 817px;
+    font-family: 'SVN-Helvetica Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+}
+.content_item6{
+    margin-left: 955.2px;
+    margin-top: -77px;
+}
+.item6{
+    position: absolute;
+    width: 191px;
+    height: 68px;
+    left: 965px;
+    top: 817px;
+    font-family: 'SVN-Helvetica Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+}
